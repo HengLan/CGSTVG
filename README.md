@@ -8,7 +8,7 @@
 ## Illustration of Idea
 ![CG-STVG](https://github.com/HengLan/CGSTVG/blob/main/assets/idea.png)
 **Figure:** Comparison between (a) existing methods that localize the target using object information from text query and (b) our CG-STVG
-that enjoys object information from text query and guidance from mined instance context for STVG. 
+that enjoys object information from text query and guidance from instance context for STVG. 
 
 ## Framework
 ![CG-STVG](https://github.com/HengLan/CGSTVG/blob/main/assets/framework.png)
