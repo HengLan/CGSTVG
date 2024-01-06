@@ -55,14 +55,14 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
     <td colspan="4" align="center"><b>Interrogative Sentences</b></td>
   </tr>
   <tr>
-    <td align="center">&nbsp;<b>M_tIoU</b>&nbsp;</td>
+    <td align="center">&nbsp;&nbsp;&nbsp;<b>M_tIoU</b>&nbsp;&nbsp;&nbsp;</td>
     <td align="center">&nbsp;&nbsp;&nbsp;<b>m_vIoU</b>&nbsp;&nbsp;&nbsp;</td>
-    <td align="center">&nbsp;<b>vIoU@0.3</b>&nbsp;</td>
-    <td align="center">&nbsp;<b>vIoU@0.5</b>&nbsp;</td>
-    <td align="center">&nbsp;<b>M_tIoU</b>&nbsp;</td>
-    <td align="center">&nbsp;<b>m_vIoU</b>&nbsp;</td>
-    <td align="center">&nbsp;<b>vIoU@0.3</b>&nbsp;</td>
-    <td align="center">&nbsp;<b>vIoU@0.5</b>&nbsp;</td>
+    <td align="center">&nbsp;&nbsp;&nbsp;<b>vIoU@0.3</b>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">&nbsp;&nbsp;&nbsp;<b>vIoU@0.5</b>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">&nbsp;&nbsp;&nbsp;<b>M_tIoU</b>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">&nbsp;&nbsp;&nbsp;<b>m_vIoU</b>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">&nbsp;&nbsp;&nbsp;<b>vIoU@0.3</b>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">&nbsp;&nbsp;&nbsp;<b>vIoU@0.5</b>&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td align="right">STGRN<sub>[CVPR'2020]</sub></td>
