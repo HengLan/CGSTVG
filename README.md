@@ -73,7 +73,7 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
     <td align="center">47.0 </td>    
     <td align="center">18.3</td>
     <td align="center">21.1</td>
-    <tdalign="center" >12.8</td>
+    <td align="center">12.8</td>
   </tr>
   <tr>
     <td align="right">OMRN<sub>[IJCAI'2020]</sub></td>
