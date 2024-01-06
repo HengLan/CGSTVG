@@ -165,4 +165,12 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
   </tr>
 </table>
 
-
+## Citation
+```
+@misc{gu2024context,
+  title={Context-Guided Spatio-Temporal Video Grounding},
+  author={Gu, Xin and Fan, Heng and Huang, Yan and Luo, Tiejian and Zhang, Libo},
+  journal={arXiv preprint arXiv:2401.01578},
+  year={2024}
+}
+```
