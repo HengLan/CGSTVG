@@ -50,16 +50,16 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
 ### Results on VidSTG
 <table>
   <tr>
-    <td><b>Methods</b>b></td>
-    <td>M_tIoU</td>
-    <td>m_vIoU</td>
-    <td>vIoU@0.3</td>
-    <td>vIoU@0.5</td>
-    <td>Methods</td>
-    <td>M_tIoU</td>
-    <td>m_vIoU</td>
-    <td>vIoU@0.3</td>
-    <td>vIoU@0.5</td>
+    <td><b>Methods</b></td>
+    <td><b>M_tIoU</b></td>
+    <td><b>m_vIoU</b></td>
+    <td><b>vIoU@0.3</b></td>
+    <td><b>vIoU@0.5</b></td>
+    <td><b>Methods</b></td>
+    <td><b>M_tIoU</b></td>
+    <td><b>m_vIoU</b></td>
+    <td><b>vIoU@0.3</b></td>
+    <td><b>vIoU@0.5</b></td>
   </tr>
   <tr>
     <td colspan="2">Three</td>
