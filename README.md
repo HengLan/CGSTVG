@@ -20,3 +20,5 @@ Training/Evaluation will be coming soon ...
 
 ## Experiments
 CG-STVG achieves state-of-the-art performance on three challenging benchmarks, including [**HCSTVG-v1**](https://github.com/tzhhhh123/HC-STVG), [**HCSTVG-v2**](https://github.com/tzhhhh123/HC-STVG), and [**VidSTG**](https://github.com/Guaranteer/VidSTG-Dataset), as shown below.
+
+### Results on HCSTVG-v1
