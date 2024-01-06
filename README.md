@@ -6,9 +6,7 @@
 🔮 Welcome to the official code repository for [**CG-STVG: Context-Guided Spatio-Temporal Video Grounding**](https://arxiv.org/abs/2401.01578). We're excited to share our work with you, please bear with us as we prepare code. Stay tuned for the reveal!
 
 ## Illustration of Idea
-💡 ***A picture is worth a thousand words!*** 
-
-Can we explore visual context from videos to enhance target localization for STVG? Yes!
+💡 ***A picture is worth a thousand words!***   Can we explore visual context from videos to enhance target localization for STVG? Yes!
 
 ![CG-STVG](https://github.com/HengLan/CGSTVG/blob/main/assets/idea.png)
 **Figure:** Illustration of and comparison between (a) existing methods that localize the target using object information from text query and (b) our CG-STVG
