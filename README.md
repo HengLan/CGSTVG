@@ -17,3 +17,6 @@ a set of decoding stages for grounding. In each decoding stage, instance context
 
 ## Get Started
 Training/Evaluation will be coming soon ...
+
+## Experiments
+CG-STVG achieves state-of-the-art performance on three challenging benchmarks, including HCSTVG-v1, HCSTVG-v2, and VidSTG, as shown below.
