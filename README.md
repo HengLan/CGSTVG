@@ -130,6 +130,28 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
     <td align="center">39.2</td>
     <td align="center">26.6</td>
   </tr>
+  <tr>
+    <td align="right">CSDVL<sub>[CVPR'2023]</sub></td>
+    <td align="center">-</td>
+    <td align="center">33.7</td>
+    <td align="center">47.2</td>
+    <td align="center">32.8</td>
+    <td align="center">-</td>    
+    <td align="center">28.5</td>
+    <td align="center">39.9</td>
+    <td align="center">26.2</td>
+  </tr>
+  <tr>
+    <td align="right">Baseline (ours)</td>
+    <td align="center">49.7</td>
+    <td align="center">32.4</td>
+    <td align="center">45.0</td>
+    <td align="center">31.4</td>
+    <td align="center">48.8</td>    
+    <td align="center">27.7</td>
+    <td align="center">38.7</td>
+    <td align="center">25.6</td>
+  </tr>
 </table>
 
 
