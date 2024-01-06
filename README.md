@@ -108,6 +108,28 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
     <td align="center">26.0</td>
     <td align="center">16.0</td>
   </tr>
+  <tr>
+    <td align="right">TubeDETR<sub>[CVPR'2022]</sub></td>
+    <td align="center">48.1</td>
+    <td align="center">30.4</td>
+    <td align="center">42.5</td>
+    <td align="center">28.2</td>
+    <td align="center">46.9</td>    
+    <td align="center">25.7</td>
+    <td align="center">35.7</td>
+    <td align="center">23.2</td>
+  </tr>
+  <tr>
+    <td align="right">STCAT<sub>[NeurIPS'2022]</sub></td>
+    <td align="center">50.8</td>
+    <td align="center">33.1</td>
+    <td align="center">46.2</td>
+    <td align="center">32.6</td>
+    <td align="center">49.7</td>    
+    <td align="center">28.2</td>
+    <td align="center">39.2</td>
+    <td align="center">26.6</td>
+  </tr>
 </table>
 
 
