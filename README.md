@@ -46,3 +46,7 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
 |CSDVL<sub>[CVPR'2023]</sub> | 58.1 | 38.7 | **65.5** | 33.8|
 |Baseline (ours) | 58.6 | 37.8 | 62.4 | 32.1|
 |CG-STVG (ours) | **60.0**<sub>+1.4</sub> | **39.5**<sub>+1.7</sub> | 64.5<sub>+2.1</sub> | **36.3**<sub>+4.2</sub>|
+
+### Results on VidSTG
+|  Methods   | M_tIoU | m_vIoU | vIoU@0.3 | vIoU@0.5  |
+|  ----:  | :----:  | :----: | :----: | :----: |
