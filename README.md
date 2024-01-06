@@ -86,6 +86,17 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
     <td align="center">28.4</td>
     <td align="center">14.1</td>
   </tr>
+  <tr>
+    <td align="right">STGVT<sub>[TCSVT'2021]</sub></td>
+    <td align="center">-</td>
+    <td align="center">21.6</td>
+    <td align="center">29.8</td>
+    <td align="center">18.9</td>
+    <td align="center">-</td>    
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
 </table>
 
 
