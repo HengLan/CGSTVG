@@ -28,4 +28,4 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
 ### Results on HCSTVG-v1
 |  Methods   | M_tIoU | m_vIoU | vIoU@0.3 | vIoU@0.5  |
 |  ----  | ----  | ---- | ---- | ---- |
-STGVT <sub>TCSVT22</sub> | - |  18.2 | 26.8 | 9.5|
+|STGVT<sub>TCSVT22</sub> | - |  18.2 | 26.8 | 9.5|
