@@ -40,3 +40,4 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
 |  Methods   | M_tIoU | m_vIoU | vIoU@0.3 | vIoU@0.5  |
 |  ----:  | :----:  | :----: | :----: | :----: |
 |PCC<sub>[arxiv'2021]</sub> | - |  30.0 | - | - |
+|2D-Tan[arxiv'2021]</sub>  | - | 30.4 |  50.4 | 18.8 |
