@@ -48,9 +48,14 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
 |CG-STVG (ours) | **60.0**<sub>+1.4</sub> | **39.5**<sub>+1.7</sub> | 64.5<sub>+2.1</sub> | **36.3**<sub>+4.2</sub>|
 
 ### Results on VidSTG
-Results on ***Declarative Sentences***.
-|  Declarative Sentences  |
-|  Methods   | M_tIoU | m_vIoU | vIoU@0.3 | vIoU@0.5  |
-|  ----:  | :----:  | :----: | :----: | :----: |
+<table>
+  <tr>
+    <td>One</td>
+    <td>Two</td>
+  </tr>
+  <tr>
+    <td colspan="2">Three</td>
+  </tr>
+</table>
 
 
