@@ -34,7 +34,7 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
 |STCAT<sub>[NeurIPS'2022]</sub> | 49.4 | 35.1 | 57.7 | 30.1|
 |CSDVL<sub>[CVPR'2023]</sub> | - | 36.9 | **62.2** | 34.8|
 |Baseline (ours) | 50.4 | 36.5 | 58.6 | 32.3 |
-|CG-STVG (ours)|**52.8**<sub>+2.4</sub> | **38.4**<sub>+1.9</sub> | 61.5<sub>+2.9</sub> | **36.3**<sub>+4.0</sub>|
+|CG-STVG (ours)|**52.8**<sub>(+2.4)</sub> | **38.4**<sub>(+1.9)</sub> | 61.5<sub>(+2.9)</sub> | **36.3**<sub>(+4.0)</sub>|
 
 ### Results on HCSTVG-v2
 |  Methods   | M_tIoU | m_vIoU | vIoU@0.3 | vIoU@0.5  |
@@ -45,7 +45,7 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
 |TubeDETR<sub>[CVPR'2022]</sub> | - | 36.4 | 58.8 | 30.6|
 |CSDVL<sub>[CVPR'2023]</sub> | 58.1 | 38.7 | **65.5** | 33.8|
 |Baseline (ours) | 58.6 | 37.8 | 62.4 | 32.1|
-|CG-STVG (ours) | **60.0**<sub>+1.4</sub> | **39.5**<sub>+1.7</sub> | 64.5<sub>+2.1</sub> | **36.3**<sub>+4.2</sub>|
+|CG-STVG (ours) | **60.0**<sub>(+1.4)</sub> | **39.5**<sub>(+1.7)</sub> | 64.5<sub>(+2.1)</sub> | **36.3**<sub>(+4.2)</sub>|
 
 ### Results on VidSTG
 <table>
@@ -154,14 +154,14 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
   </tr>
   <tr>
     <td align="right">CG-STVG (ours)</td>
-    <td align="center"><b>51.4</b> (+1.7)</td>
-    <td align="center"><b>34.0</b> (+1.6)</td>
-    <td align="center"><b>47.7</b> (+2.7)</td>
-    <td align="center"><b>33.1</b> (+1.7)</td>
-    <td align="center"><b>49.9</b> (+1.1)</td>    
-    <td align="center"><b>29.0</b> (+1.3)</td>
-    <td align="center"><b>40.5</b> (+1.8)</td>
-    <td align="center"><b>27.5</b> (+1.9)</td>
+    <td align="center"><b>51.4</b> <sub>(+1.7)</sub></td>
+    <td align="center"><b>34.0</b> <sub>(+1.6)</sub></td>
+    <td align="center"><b>47.7</b> <sub>(+2.7)</sub></td>
+    <td align="center"><b>33.1</b> <sub>(+1.7)</sub></td>
+    <td align="center"><b>49.9</b> <sub>(+1.1)</sub></td>    
+    <td align="center"><b>29.0</b> <sub>(+1.3)</sub></td>
+    <td align="center"><b>40.5</b> <sub>(+1.8)</sub></td>
+    <td align="center"><b>27.5</b> <sub>(+1.9)</sub></td>
   </tr>
 </table>
 
