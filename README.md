@@ -56,7 +56,7 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
   </tr>
   <tr>
     <td align="center">&nbsp;<b>M_tIoU</b>&nbsp;</td>
-    <td align="center">&nbsp;<b>m_vIoU</b>&nbsp;</td>
+    <td align="center">&nbsp;&nbsp;&nbsp;<b>m_vIoU</b>&nbsp;&nbsp;&nbsp;</td>
     <td align="center">&nbsp;<b>vIoU@0.3</b>&nbsp;</td>
     <td align="center">&nbsp;<b>vIoU@0.5</b>&nbsp;</td>
     <td align="center">&nbsp;<b>M_tIoU</b>&nbsp;</td>
