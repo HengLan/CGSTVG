@@ -7,6 +7,7 @@
 
 ## Illustration of Idea
 ***A picture is worth a thousand words!*** Why don't we explore visual context from videos to enhance target localization for STVG?
+
 ![CG-STVG](https://github.com/HengLan/CGSTVG/blob/main/assets/idea.png)
 **Figure:** Comparison between (a) existing methods that localize the target using object information from text query and (b) our CG-STVG
 that enjoys object information from text query and guidance from instance context for STVG. 
