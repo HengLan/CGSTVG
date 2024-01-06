@@ -43,4 +43,6 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
 |2D-Tan<sub>[arxiv'2021]</sub>  | - | 30.4 |  50.4 | 18.8 |
 |MMN<sub>[AAAI'2022]</sub> | - | 30.3 | 49.0 | 25.6|
 |TubeDETR<sub>[CVPR'2022]</sub> | - | 36.4 | 58.8 | 30.6|
-|CSDVL<sub>[CVPR'2023]</sub> | 58.1 | 38.7 | \textbf{65.5} | 33.8|
+|CSDVL<sub>[CVPR'2023]</sub> | 58.1 | 38.7 | **65.5** | 33.8|
+|Baseline (ours) | 58.6 | 37.8 | 62.4 | 32.1|
+|CG-STVG (ours) & **60.0**<sub>+1.4</sub> | **39.5**<sub>+1.7</sub> | 64.5<sub>+2.1</sub> | **36.3**<sub>+4.2</sub>|
