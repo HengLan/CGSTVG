@@ -49,5 +49,6 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
 
 ### Results on VidSTG
 Results on ***Declarative Sentences***.
+|  Declarative Sentences  |
 |  Methods   | M_tIoU | m_vIoU | vIoU@0.3 | vIoU@0.5  |
 |  ----:  | :----:  | :----: | :----: | :----: |
