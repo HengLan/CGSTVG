@@ -55,7 +55,7 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
     <td colspan="4" align="center"><b>Interrogative Sentences</b></td>
   </tr>
   <tr>
-    <td align="center">&#20;<b>M_tIoU</b>&#20;</td>
+    <td align="center">nbsp;<b>M_tIoU</b>&#20;</td>
     <td align="center"><b>m_vIoU</b></td>
     <td align="center"><b>vIoU@0.3</b></td>
     <td align="center"><b>vIoU@0.5</b></td>
