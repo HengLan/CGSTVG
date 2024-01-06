@@ -30,3 +30,4 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
 |  ----  | ----  | ---- | ---- | ---- |
 |STGVT<sub>TCSVT'2021</sub> | - |  18.2 | 26.8 | 9.5|
 |STVGBert<sub>ICCV'2021</sub> | - | 20.4 | 29.4 |  11.3|
+|TubeDETR<sub>CVPR'2022</sub> | 43.7 | 32.4 | 49.8 | 23.5|
