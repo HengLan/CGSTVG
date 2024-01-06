@@ -97,6 +97,17 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="right">STVGBert<sub>[ICCV'2021]</sub></td>
+    <td align="center">-</td>
+    <td align="center">24.0</td>
+    <td align="center">30.9</td>
+    <td align="center">18.4</td>
+    <td align="center">-</td>    
+    <td align="center">22.5</td>
+    <td align="center">26.0</td>
+    <td align="center">16.0</td>
+  </tr>
 </table>
 
 
