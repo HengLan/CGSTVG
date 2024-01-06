@@ -152,6 +152,17 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
     <td align="center">38.7</td>
     <td align="center">25.6</td>
   </tr>
+  <tr>
+    <td align="right">CG-STVG (ours)</td>
+    <td align="center"><b>51.4</b> (+1.7)</td>
+    <td align="center">32.4</td>
+    <td align="center">45.0</td>
+    <td align="center">31.4</td>
+    <td align="center">48.8</td>    
+    <td align="center">27.7</td>
+    <td align="center">38.7</td>
+    <td align="center">25.6</td>
+  </tr>
 </table>
 
 
