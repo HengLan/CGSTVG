@@ -55,36 +55,36 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
     <td colspan="4" align="center"><b>Interrogative Sentences</b></td>
   </tr>
   <tr>
-    <td><b>M_tIoU</b></td>
-    <td><b>m_vIoU</b></td>
-    <td><b>vIoU@0.3</b></td>
-    <td><b>vIoU@0.5</b></td>
-    <td><b>M_tIoU</b></td>
-    <td><b>m_vIoU</b></td>
-    <td><b>vIoU@0.3</b></td>
-    <td><b>vIoU@0.5</b></td>
+    <td align="center"><b>M_tIoU</b></td>
+    <td align="center"><b>m_vIoU</b></td>
+    <td align="center"><b>vIoU@0.3</b></td>
+    <td align="center"><b>vIoU@0.5</b></td>
+    <td align="center"><b>M_tIoU</b></td>
+    <td align="center"><b>m_vIoU</b></td>
+    <td align="center"><b>vIoU@0.3</b></td>
+    <td align="center"><b>vIoU@0.5</b></td>
   </tr>
   <tr>
     <td align="right">STGRN<sub>[CVPR'2020]</sub></td>
-    <td>48.5</td>
-    <td>19.8</td>
-    <td>25.8</td>
-    <td>14.6</td>
-    <td>47.0 </td>    
-    <td>18.3</td>
-    <td>21.1</td>
-    <td>12.8</td>
+    <td align="center">48.5</td>
+    <td align="center">19.8</td>
+    <td align="center">25.8</td>
+    <td align="center">14.6</td>
+    <td align="center">47.0 </td>    
+    <td align="center">18.3</td>
+    <td align="center">21.1</td>
+    <tdalign="center" >12.8</td>
   </tr>
   <tr>
     <td align="right">OMRN<sub>[IJCAI'2020]</sub></td>
-    <td>50.7</td>
-    <td>23.1</td>
-    <td>32.6</td>
-    <td>16.4</td>
-    <td>49.2</td>    
-    <td>20.6</td>
-    <td>28.4</td>
-    <td>14.1</td>
+    <td align="center">50.7</td>
+    <td align="center">23.1</td>
+    <td align="center">32.6</td>
+    <td align="center">16.4</td>
+    <td align="center">49.2</td>    
+    <td align="center">20.6</td>
+    <td align="center">28.4</td>
+    <td align="center">14.1</td>
   </tr>
 </table>
 
