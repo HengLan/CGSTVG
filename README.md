@@ -23,7 +23,7 @@ Coming soon ...
 Coming soon ...
 
 ## Experiments
-CG-STVG achieves state-of-the-art performance on three challenging benchmarks, including [**HCSTVG-v1**](https://github.com/tzhhhh123/HC-STVG), [**HCSTVG-v2**](https://github.com/tzhhhh123/HC-STVG), and [**VidSTG**](https://github.com/Guaranteer/VidSTG-Dataset), as shown below.
+CG-STVG achieves state-of-the-art performance on three challenging benchmarks, including [**HCSTVG-v1**](https://github.com/tzhhhh123/HC-STVG), [**HCSTVG-v2**](https://github.com/tzhhhh123/HC-STVG), and [**VidSTG**](https://github.com/Guaranteer/VidSTG-Dataset), as shown below. Note that, the baseline is our CG-STVG without context generation and refinement.
 
 ### Results on HCSTVG-v1
 |  Methods   | M_tIoU | m_vIoU | vIoU@0.3 | vIoU@0.5  |
@@ -33,3 +33,5 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
 |TubeDETR<sub>CVPR'2022</sub> | 43.7 | 32.4 | 49.8 | 23.5|
 |STCAT<sub>NeurIPS'2022</sub> | 49.4 | 35.1 | 57.7 | 30.1|
 |CSDVL<sub>CVPR'2023</sub> | - | 36.9 | \textbf{62.2} | 34.8|
+|Baseline | 50.4 | 36.5 | 58.6 | 32.3 |
+|52.8<sub>+2.4</sub> | 38.4<sub>+1.9</sub> | 61.5<sub>+2.9</sub> | 36.3<sub>+4.0</sub>|
