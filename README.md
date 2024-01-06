@@ -30,13 +30,13 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
 |  ----:  | :----:  | :----: | :----: | :----: |
 |STGVT<sub>[TCSVT'2021]</sub> | - |  18.2 | 26.8 | 9.5|
 |STVGBert<sub>[ICCV'2021]</sub> | - | 20.4 | 29.4 |  11.3|
-|TubeDETR<sub>CVPR'2022</sub> | 43.7 | 32.4 | 49.8 | 23.5|
-|STCAT<sub>NeurIPS'2022</sub> | 49.4 | 35.1 | 57.7 | 30.1|
-|CSDVL<sub>CVPR'2023</sub> | - | 36.9 | **62.2** | 34.8|
+|TubeDETR<sub>[CVPR'2022]</sub> | 43.7 | 32.4 | 49.8 | 23.5|
+|STCAT<sub>[NeurIPS'2022]</sub> | 49.4 | 35.1 | 57.7 | 30.1|
+|CSDVL<sub>[CVPR'2023]</sub> | - | 36.9 | **62.2** | 34.8|
 |Baseline (ours) | 50.4 | 36.5 | 58.6 | 32.3 |
 |CG-STVG (ours)|**52.8**<sub>+2.4</sub> | **38.4**<sub>+1.9</sub> | 61.5<sub>+2.9</sub> | **36.3**<sub>+4.0</sub>|
 
 ### Results on HCSTVG-v2
 |  Methods   | M_tIoU | m_vIoU | vIoU@0.3 | vIoU@0.5  |
 |  ----:  | :----:  | :----: | :----: | :----: |
-|PCC [arxiv'2021] | - |  30.0 | - | - |
+|PCC<sub>[arxiv'2021]</sub> | - |  30.0 | - | - |
