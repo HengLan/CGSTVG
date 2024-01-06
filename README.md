@@ -32,3 +32,4 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
 |STVGBert<sub>ICCV'2021</sub> | - | 20.4 | 29.4 |  11.3|
 |TubeDETR<sub>CVPR'2022</sub> | 43.7 | 32.4 | 49.8 | 23.5|
 |STCAT<sub>NeurIPS'2022</sub> | 49.4 | 35.1 | 57.7 | 30.1|
+|CSDVL<sub>CVPR'2023</sub> | - | 36.9 | \textbf{62.2} | 34.8|
