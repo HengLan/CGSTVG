@@ -50,9 +50,9 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
 ### Results on VidSTG
 <table>
   <tr>
-    <td rowspan="2"><b>Methods</b></td>
+    <td rowspan="2" align="right"><b>Methods</b></td>
     <td colspan="4" align="center"><b>Declarative Sentences</b></td>
-    <td colspan="4"><b>Interrogative Sentences</b></td>
+    <td colspan="4" align="center"><b>Interrogative Sentences</b></td>
   </tr>
   <tr>
     <td><b>M_tIoU</b></td>
