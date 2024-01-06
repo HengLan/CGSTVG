@@ -41,3 +41,4 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
 |  ----:  | :----:  | :----: | :----: | :----: |
 |PCC<sub>[arxiv'2021]</sub> | - |  30.0 | - | - |
 |2D-Tan<sub>[arxiv'2021]</sub>  | - | 30.4 |  50.4 | 18.8 |
+|MMN<sub>[AAAI'2022]</sub> | - | 30.3 | 49.0 | 25.6|
