@@ -35,3 +35,8 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
 |CSDVL<sub>CVPR'2023</sub> | - | 36.9 | **62.2** | 34.8|
 |Baseline (ours) | 50.4 | 36.5 | 58.6 | 32.3 |
 |CG-STVG (ours)|**52.8**<sub>+2.4</sub> | **38.4**<sub>+1.9</sub> | 61.5<sub>+2.9</sub> | **36.3**<sub>+4.0</sub>|
+
+### Results on HCSTVG-v2
+|  Methods   | M_tIoU | m_vIoU | vIoU@0.3 | vIoU@0.5  |
+|  ----:  | :----:  | :----: | :----: | :----: |
+|PCC [arxiv'2021] | - |  30.0 | - | - |
