@@ -16,7 +16,10 @@ that enjoys object information from text query and guidance from mined instance 
 a set of decoding stages for grounding. In each decoding stage, instance context is mined to guide query learning for better localization. More details can be seen in the [**paper**](https://arxiv.org/abs/2401.01578).
 
 ## Get Started
+### Training and Evaluation
 Training/Evaluation will be coming soon ...
+
+### Pre-trained models
 
 ## Experiments
 CG-STVG achieves state-of-the-art performance on three challenging benchmarks, including [**HCSTVG-v1**](https://github.com/tzhhhh123/HC-STVG), [**HCSTVG-v2**](https://github.com/tzhhhh123/HC-STVG), and [**VidSTG**](https://github.com/Guaranteer/VidSTG-Dataset), as shown below.
