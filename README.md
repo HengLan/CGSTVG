@@ -15,7 +15,7 @@ that enjoys object information from text query and guidance from instance contex
 **Figure:** Overview of our method, which consists of a multimodal encoder for feature extraction and a context-guided decoder by cascading
 a set of decoding stages for grounding. In each decoding stage, instance context is mined to guide query learning for better localization. More details can be seen in the [**paper**](https://arxiv.org/abs/2401.01578).
 
-## Get Started
+## Implementation
 ### Training/Evaluation
 Coming soon ...
 
