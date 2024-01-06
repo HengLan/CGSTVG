@@ -52,3 +52,13 @@ Results on ***Declarative Sentences***.
 |  Declarative Sentences  |
 |  Methods   | M_tIoU | m_vIoU | vIoU@0.3 | vIoU@0.5  |
 |  ----:  | :----:  | :----: | :----: | :----: |
+
+<table>
+  <tr>
+    <td>One</td>
+    <td>Two</td>
+  </tr>
+  <tr>
+    <td colspan="2">Three</td>
+  </tr>
+</table>
