@@ -34,4 +34,4 @@ CG-STVG achieves state-of-the-art performance on three challenging benchmarks, i
 |STCAT<sub>NeurIPS'2022</sub> | 49.4 | 35.1 | 57.7 | 30.1|
 |CSDVL<sub>CVPR'2023</sub> | - | 36.9 | \textbf{62.2} | 34.8|
 |Baseline | 50.4 | 36.5 | 58.6 | 32.3 |
-|52.8<sub>+2.4</sub> | 38.4<sub>+1.9</sub> | 61.5<sub>+2.9</sub> | 36.3<sub>+4.0</sub>|
+|CG-STVG (ours)|52.8<sub>+2.4</sub> | 38.4<sub>+1.9</sub> | 61.5<sub>+2.9</sub> | 36.3<sub>+4.0</sub>|
