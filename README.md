@@ -13,7 +13,7 @@ that enjoys object information from text query and guidance from instance contex
 ## Framework
 ![CG-STVG](https://github.com/HengLan/CGSTVG/blob/main/assets/framework.png)
 **Figure:** Overview of our method, which consists of a multimodal encoder for feature extraction and a context-guided decoder by cascading
-a set of decoding stages for grounding. In each decoding stage, instance context is mined to guide query learning for better localization. More details can be seen in the [**paper**](https://arxiv.org/abs/2401.01578).
+a set of decoding stages for grounding. In each decoding stage, instance context is mined (by ***ICG*** and ***ICR***) to guide query learning for better localization. More details can be seen in the [**paper**](https://arxiv.org/abs/2401.01578).
 
 ## Implementation
 ### Training/Evaluation
