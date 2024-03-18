@@ -19,7 +19,7 @@ a set of decoding stages for grounding. In each decoding stage, instance context
 
 ## Implementation
 ### Training/Evaluation
-Coming soon ...
+Coming soon ..
 
 ### Pre-trained models
 Coming soon ...
