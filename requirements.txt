@@ -1,0 +1,15 @@
+tqdm
+yacs
+torchtext==0.15.2
+timm
+tensorboard
+pytorch-pretrained-bert
+transformers==4.5.1
+Pillow
+opencv_python
+ffmpeg_python
+scipy
+cython
+tqdm
+packaging==21.3
+ftfy

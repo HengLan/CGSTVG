@@ -1,0 +1,55 @@
+OUTPUT_DIR: data/hc-stvg/checkpoints/
+DATA_DIR: data/hc-stvg/
+TENSORBOARD_DIR: data/hc-stvg/checkpoints/tensorboard/
+
+INPUT:
+  RESOLUTION: 420
+  FLIP_PROB_TRAIN: 0.7
+  TEMP_CROP_PROB: 0.5
+  SAMPLE_FPS: 3.2
+
+MODEL:
+  WEIGHT: model_zoo/pretrained_resnet101_checkpoint.pth
+  VISION_BACKBONE:
+    NAME: resnet101
+    POS_ENC: sine
+  TEXT_MODEL:
+    NAME: roberta-base
+  CG:
+    FROM_SCRATCH: True
+    USE_LEARN_TIME_EMBED: False
+    USE_ACTION: True
+    TEMP_THETA: 0.5
+    SPAT_GT_THETA: 0.8
+    SPAT_THETA: 0.8
+
+DATASET:
+  NAME: HC-STVG
+
+DATALOADER:
+  NUM_WORKERS: 8
+  ASPECT_RATIO_GROUPING: False
+
+SOLVER:
+  MAX_EPOCH: 90
+  BATCH_SIZE: 1
+  BBOX_COEF: 5
+  GIOU_COEF: 4
+  TEMP_COEF: 10
+  ATTN_COEF: 1
+  CONF_COEF: 1
+  ACTIONESS_COEF: 2
+  EOS_COEF: 0.3
+  SIGMA: 2.0
+  BASE_LR: 3e-4
+  TEXT_LR: 5e-5
+  VIS_BACKBONE_LR: 2e-5
+  TEMP_LR: 1e-4
+  OPTIMIZER: adamw
+  VAL_PERIOD: 500
+  CHECKPOINT_PERIOD: 2000
+  SHUFFLE: True
+  SCHEDULE:
+    TYPE: multistep_with_warmup
+    DROP_STEP: [50, 90]
+  PRE_VAL: False

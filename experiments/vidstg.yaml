@@ -1,0 +1,55 @@
+OUTPUT_DIR: data/vidstg/checkpoints/
+DATA_DIR: data/vidstg/
+TENSORBOARD_DIR: data/vidstg/checkpoints/tensorboard/
+
+INPUT:
+  RESOLUTION: 420
+  FLIP_PROB_TRAIN: 0.7
+  TEMP_CROP_PROB: 0.5
+  TRAIN_SAMPLE_NUM: 64
+
+MODEL:
+  WEIGHT: model_zoo/pretrained_resnet101_checkpoint.pth
+  VISION_BACKBONE:
+    NAME: resnet101
+    POS_ENC: sine
+  TEXT_MODEL:
+    NAME: roberta-base
+  CG:
+    FROM_SCRATCH: True
+    USE_LEARN_TIME_EMBED: False
+    USE_ACTION: True
+    TEMP_THETA: -0.5
+    SPAT_GT_THETA: 0.5
+    SPAT_THETA: 0.5
+
+DATASET:
+  NAME: VidSTG
+
+DATALOADER:
+  NUM_WORKERS: 8
+  ASPECT_RATIO_GROUPING: False
+
+SOLVER:
+  MAX_EPOCH: 10
+  BATCH_SIZE: 1
+  BBOX_COEF: 5
+  GIOU_COEF: 3
+  TEMP_COEF: 1
+  ATTN_COEF: 1
+  CONF_COEF: 1
+  ACTIONESS_COEF: 2
+  EOS_COEF: 0.3
+  SIGMA: 2.0
+  BASE_LR: 3e-4
+  TEXT_LR: 5e-5
+  VIS_BACKBONE_LR: 1e-5
+  TEMP_LR: 1e-4
+  OPTIMIZER: adamw
+  VAL_PERIOD: 260000
+  CHECKPOINT_PERIOD: 500
+  SHUFFLE: True
+  SCHEDULE:
+    TYPE: multistep_with_warmup_all
+    DROP_STEP: [8,10]
+  PRE_VAL: False
