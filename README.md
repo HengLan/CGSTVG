@@ -308,10 +308,11 @@ This repo is partly based on the open-source release from [STCAT](https://github
 ## Citation
 ⭐ If you find this repository useful, please consider giving it a star and citing it:
 ```
-@article{gu2024context,
+@inproceedings{gu2024context,
   title={Context-Guided Spatio-Temporal Video Grounding},
   author={Gu, Xin and Fan, Heng and Huang, Yan and Luo, Tiejian and Zhang, Libo},
-  journal={arXiv preprint arXiv:2401.01578},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={18330--18339},
   year={2024}
 }
 ```
